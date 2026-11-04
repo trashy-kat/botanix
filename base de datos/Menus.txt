@@ -1,11 +1,11 @@
-Gestión de Usaurios
-Gestión de Plantas
-Gestión de Seguimientos + código de barras
+Gestión de Usaurios - Misa
+Gestión de Plantas - Ana
+Gestión de Seguimientos + código de barras - 
 Gestión de Pedidos
 Gestión de Inventario
 Gestión de almacen
  -tierra, bolsas, macetas, abono, químicos
- Gestión de insumos
+ -Gestión de insumos
 Gestión de Ventas
 Gestión de ingresos y egresos
 Gestión de catálogo
@@ -14,4 +14,16 @@ APP
  -Gestión de seguimiento de estatus por codigo de barras
  -Conocer la etapa de crecimiento de las plantas (inventario)
  -calculadora para la venta
+
+1 entrevista
+2 transcripcion
+3 tabla de categoria
+4 requerimientos funcionales y no funvionales e historia de usario
+5 diagrama dde secuencia
+6 wireframes
+7 diseño base de datos
+8 maquetado
+9 desarrollo backend con laravel y uso de formatos 
+10 desarrollo fronted 
+11 pruebas
 

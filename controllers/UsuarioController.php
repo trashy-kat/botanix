@@ -84,3 +84,5 @@ class UsuarioController
         include APP_ROOT . '/views/editUsuario.php';
     }
 }
+
+?>

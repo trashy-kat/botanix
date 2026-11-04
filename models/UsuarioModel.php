@@ -43,3 +43,5 @@ class Usuario
         return $stmt->execute([trim($nombre), trim($email), $id]);
     }
 }
+
+?>

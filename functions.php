@@ -79,3 +79,5 @@ function abort(int $statusCode, string $message = ''): void
 
     exit;
 }
+
+?>

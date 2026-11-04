@@ -40,7 +40,7 @@
                           <i class="mdi mdi-account-outline text-primary"></i>
                         </span>
                       </div>
-                      <input type="text" class="form-control form-control-lg border-left-0" id="" placeholder="Nombre de Usuario">
+                      <input type="text" class="form-control form-control-lg border-left-0" id="Username" placeholder="Nombre de Usuario">
                     </div>
                   </div>
                   <div class="form-group">
