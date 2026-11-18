@@ -13,4 +13,5 @@ else if ($menu=='panel'){
     include 'views/Error404View.php';
 }
 
+//misael pto
 ?>
